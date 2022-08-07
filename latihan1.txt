@@ -1,0 +1,3 @@
+Rencana belajar:
+1. Belajar login auth
+2. Belajar jwt
